@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I'm an experienced Full-Staccodevelopdevk Engineer proficient in MERN and MEAN Stack. <br>
+🎯 I'm an experienced Full-Stack Engineer proficient in MERN and MEAN Stack. <br>
 👩‍💻 I am passionate about building web applications with the latest technologies and solving complex problems.<br>
 📚 I'm currently learning new technologies and believes in continuous upskilling. <br>
 📩 Reach out to me on LinkedIn or at prasadponnada09@gmail.com
